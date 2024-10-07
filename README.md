@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi threre, I am ZHENTANtuiliLOve!!!!!!
+# Hi, I am ZHENTANtuiliLOve.
+I am a student majoring in computer science and technology. I love programming and enjoy creating new things. I am currently learning web development and data analysis.
 
-<!--
-**ZHENTANtuiliLOVE/ZHENTANtuiliLOVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact me
+- Email: ZHENTANtuiliLOve@outlook.com
+- Github:  [my github](https://github.com/zhentantuililove)
+- Bilibili: [my bilibili](https://space.bilibili.com/3546615801449334?spm_id_from=333.337.0.0)
 
-Here are some ideas to get you started:
+## My skills
+- Programming languages: Python, JavaScript, C++, PHP,  HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My hobbies
+- Reading books
+- Play Minecraft
+- Watching youtube videos
+- Traveling
+- Hiking
+- Swimming
+- Playing guitar
+- Playing piano
+
+## languages
+- Chinese: [中文](README ZH.md)
+- Japanese: [日本語](README JP.md)
+- Korean: [한국어](README KO.md)
+- Spanish: [Español](README ES.md)
